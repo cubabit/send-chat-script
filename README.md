@@ -1,0 +1,8 @@
+Usage:
+
+    npm run send-message \
+    --token "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJpc3MiOiJmaXJlYmFzZS1hZG1pbnNkay0wZjhkbUBydXVieWRldi5pYW0uZ3NlcnZpY2VhY2NvdW50LmNvbSIsInN1YiI6ImZpcmViYXNlLWFkbWluc2RrLTBmOGRtQHJ1dWJ5ZGV2LmlhbS5nc2VydmljZWFjY291bnQuY29tIiwiYXVkIjoiaHR0cHM6Ly9pZGVudGl0eXRvb2xraXQuZ29vZ2xlYXBpcy5jb20vZ29vZ2xlLmlkZW50aXR5LmlkZW50aXR5dG9vbGtpdC52MS5JZGVudGl0eVRvb2xraXQiLCJpYXQiOjE0ODg4ODQ1ODUsImV4cCI6MTQ4ODg4ODE4NSwidWlkIjoxMjYyMywiY2xhaW1zIjp7InByZW1pdW1fYWNjb3VudCI6ZmFsc2V9fQ.PmvDFND4Ay6B8bnaLTNAT8GiWTDSGKQLcV7MXzrdcvyVrtl9biWT5ld9rgF4vrOitfA1R8ViUs2I41-g6cJnsxhoASoctTN8civ-iXTxZnZVX9tscrTXAYCq3fdYX57gdkNk6dHDlS7FrcKxFOU5DPPSAWOnoEkaRtNHgZZWh4XrIjHbKc3NfJPtamZ62lTRrsjezRQQd5uF-J5qnYpk-s9siqLSwJIIBSIDvyMGonbB8hQXMJQDaOgeX-TXyVBLZ3RxvbX5y7c05sfc4LlXoQjSrjxsuGKF_dN82OebRx9p8EY9aVUYcAOe5FF0q4RwHRGpSfyXeOdYjPGt_TJ3qg" \
+    --message "Hello!" \
+    --sender-name Pete \
+    --sender-urn "urn:ruuby:therapist:123-4" \
+    --chat-urn "urn:ruuby:chat:123"
